@@ -51,7 +51,7 @@ intensity-analysis/
 ## 🧪 Model Performance
 
 - Uses Multinomial Naive Bayes + TF-IDF
-- Accuracy > 85% on test data
+- Accuracy > 81% on test data
 - Includes classification report and confusion matrix
 
 ## 📦 Deployment Plan
